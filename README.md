@@ -14,7 +14,8 @@ This retrieves the data from the api by rendering all the data with react so tha
 
 ## Usage 
 
-Video:
+Video:https://drive.google.com/file/d/19OmCQMRDp1rYRizhs7KDL7RVpINHrqxf/view
+
 
 ## Credits
 
